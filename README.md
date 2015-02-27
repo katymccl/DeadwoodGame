@@ -94,6 +94,7 @@ arguments which you must specify)
 
 who: identifies current player in the form colorName (dollars, credits) rank. It 
 also identifies any parts you are working.
+
 where: describes where current player is, any active scenes, where you can move 
 to, and what roles you can play.
 move ROOM: will move current player to the room specified. 
