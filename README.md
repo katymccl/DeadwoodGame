@@ -90,7 +90,7 @@ In Windows:
 COMMANDS
 
 The following are valid commands on the console: (words in upper case are 
-arguments which you must specify) 
+arguments which you must specify).
 
 who: identifies current player in the form colorName (dollars, credits) rank. It 
 also identifies any parts you are working.
