@@ -97,15 +97,22 @@ also identifies any parts you are working.
 
 where: describes where current player is, any active scenes, where you can move 
 to, and what roles you can play.
+
 move ROOM: will move current player to the room specified. 
+
 work PART: player will take the current role
+
 upgrade $ LEVEL : will upgrade player's rank to the level specified (between 
 2-6) if you have enough money
+
 upgrade cr LEVEL: same as above command but will use credits instead of dollars 
 to upgrade
+
 rehearse: gives player 1 rehearsal chip. This will help you succeed more easily 
 when you act.
+
 act : will allow player to perform current role
+
 end: will end current player's turn
 
 
@@ -140,7 +147,7 @@ On your turn you can:
 
 Upgrading Costs:
 Rank:	Dollars	    Credits
-2	    4           5
+2	         4           5
 3          10          10
 4          18          15
 5          28          20
