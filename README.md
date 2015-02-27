@@ -87,7 +87,6 @@ In Windows:
 3)  Check to make sure permissions are set so that it can execute.
 4)  In directory where you put your file: type java -jar DeadwoodBeta.jar
 
-
 COMMANDS
 
 The following are valid commands on the console: (words in upper case are 
