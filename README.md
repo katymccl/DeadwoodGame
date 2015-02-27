@@ -1,7 +1,6 @@
 # DeadwoodGame
 README
 
----------------------------------------DeadwoodGame---------------------------------------
 INTRODUCTION
 
 This console game was implemented for a school project to apply object oriented concepts. 
